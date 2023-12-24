@@ -28,6 +28,7 @@ function App(): React.JSX.Element {
         style={backgroundStyle}>
         <View>
           <Text>PricesLK</Text>
+          <Text>additional text</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
