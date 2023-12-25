@@ -1,8 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+iOS: [![Build status](https://build.appcenter.ms/v0.1/apps/387b9bf1-039c-464a-8337-73338f9f78f1/branches/dev/badge)](https://appcenter.ms)<br/><br />
+Android: [![Build status](https://build.appcenter.ms/v0.1/apps/290b8720-cf72-4cd0-ad12-3ab4e99da1dc/branches/dev/badge)](https://appcenter.ms)
+
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
